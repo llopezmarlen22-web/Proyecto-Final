@@ -28,11 +28,10 @@
   <h1>La tecnología educativa como apoyo para la enseñanza de Matemáticas I</h1>
   <p>Ing. Lourdes Marlen López Reyna — Monterrey, Nuevo León. Noviembre 2025</p>
 </header>
-<iframe width="560" height="315" 
-src="[https://www.youtube.com/embed/CÓDIGO_DEL_VIDEO](https://llopezmarlen22-web.github.io/exparcial-matematicas-I/)" 
-title="YouTube video player" frameborder="0" 
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+<<iframe width="560" height="315"
+src="https://youtu.be/kkGCnvhTq3Q"
 allowfullscreen></iframe>
+
 <nav>
   <a href="#bloque1">Datos e Introducción</a>
   <a href="#bloque2">Videoconf. Análisis</a>
