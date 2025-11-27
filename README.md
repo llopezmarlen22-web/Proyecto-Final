@@ -456,7 +456,7 @@ ntroducción: presentación y objetivo. Desarrollo: impactos positivos (visualiz
     <li>Khan Academy. (2024). <em>Álgebra</em>. https://es.khanacademy.org/math/algebra</li>
   </ul>
 </section>
-  <p class="small">Proyecto Final — Impacto del Uso de la Tecnología en el Aprendizaje — Ing. Lourdes Marlen López Reyna</p>
+  <p class="small">Proyecto Final — Impacto del Uso de la Tecnología en el Aprendizaje — Ing. Lourdes Marlen López Reyna</p> Gracias
 </footer>
 
 </body>
