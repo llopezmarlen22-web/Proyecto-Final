@@ -28,13 +28,7 @@
   <h1>La tecnología educativa como apoyo para la enseñanza de Matemáticas I</h1>
   <p>Ing. Lourdes Marlen López Reyna — Monterrey, Nuevo León. Noviembre 2025</p>
 </header>
-<h2>Videoconferencia 1</h2>
-<iframe width="560" height="315" 
-src="https://www.youtube.com/embed/kkGCnvhTq3Q" 
-title="Videoconferencia 1"
-frameborder="0" 
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kkGCnvhTq3Q" frameborder="0" allowfullscreen></iframe>
 </iframe>
 
 
